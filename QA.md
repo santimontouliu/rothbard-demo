@@ -1,0 +1,4 @@
+# Verification — November 8, 2026
+JavaScript syntax checks passed. Eight domain assertions passed: conditional questions, minimum/two/three scenario selection, calendar validity, provenance export and invalid-date export rejection.
+Browser verification served this folder under a subpath (as with GitHub project Pages). Initial rendering, assumption changes, three-column comparison, Sources view, Growth view, reset and export feedback passed. Export content was checked through the domain function; the browser-downloaded file was not independently opened. Desktop visual inspection completed. Responsive CSS retained from the original demo; separate mobile testing of this edition remains a deployment smoke-test item. GitHub hosting/custom DNS not yet deployed or verified.
+No framework or package downloads are needed by visitors. No build step. Synthetic content only.
